@@ -22,6 +22,7 @@ header img {
 main {
     padding: 2.5rem;
     margin: 0 auto;
+    max-width: 31.25rem;
 }
 
 .card {
